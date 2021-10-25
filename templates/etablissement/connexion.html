@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Connexion</title> 
+<style>
+
+ body  
+    {  
+        margin: 0;  
+        padding: 0;  
+        background-color:#6abadeba;  
+        font-family: 'Arial';  
+    }  
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Se connecter à E-school</h1>
+{% if error %}
+<p><strong>Utilisateur inexistant ou mauvais de mot de
+passe.</strong></p>
+{% endif %}
+{% if user.is_authenticated %}
+<meta http-equiv="refresh" content="0; URL={% url 'etablissement:emploi_temps' %}" />
+{% else %}
+<form method="post" action=".">
+{% csrf_token %}
+
+{{ form.as_table }}
+<input type="submit" value="Connexion"/>
+</form>
+{% endif %}
+
+
+</body>
+</html>

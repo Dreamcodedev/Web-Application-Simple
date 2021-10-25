@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bienvenue {{user.username}}</title> 
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:orange;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="{% url 'etablissement:emploi_temps' %}">Emploi du temps</a></li>
+  <li><a href="{% url 'etablissement:resultat' %}">Resultat</a></li>
+  <li><a href="#contact">Devoir</a></li>
+  <li><a href="#contact">Compte</a></li>
+  <li style="float:right"><a class="active" href="{% url 'etablissement:logout' %}">Deconnexion</a></li>
+</ul>
+{% load static %}
+ <h2><b>Bienvenue {{user.username}}</b></h2>
+
+
+
+
+<ul>
+<a href="{{user.Emploi_Temps.time_table.url}}"> Test resultat </a></ul>
+
+<h1>Exemple PDF avec iframe</h1>
+
+<object data="recu.pdf" type="application/pdf" width="600" height="800">
+  lie alternatif : <a href="recu.pdf">test.pdf</a>
+</object>
+</body>
+</html>

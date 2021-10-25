@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bienvenue {{user.username}}</title> 
+<style>
+
+  html {
+  scroll-behavior: smooth;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: green;
+}
+
+body {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: scroll;
+  background-color: orange;
+}
+form {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: orange;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: orange;
+}
+
+.active {
+  background-color: orange;
+}
+</style>
+</head>
+<body>
+ <ul>
+  <li><a class="active" href="{% url 'etablissement:inscription' %}">Inscription</a></li>
+  <li><a href="{% url 'etablissement:matiere' %}">Matière</a></li>
+  <<li><a href="{% url 'etablissement:classe' %}">Classe</a></li>
+  <li><a href="{% url 'etablissement:etablissement' %}">Etablissement</a></li>
+  <li><a href="{% url 'etablissement:eleve' %}">Elèves</a></li>
+  <li><a href="{% url 'etablissement:professeur' %}">Professeurs</a></li>
+  <li><a href="{% url 'etablissement:emploitempsadmin' %}">Emploi du temps</a></li>
+  <li><a href="{% url 'etablissement:whatsapp' %}">Message</a></li>
+  <li><a href="{% url 'etablissement:resultatadmin' %}">Resultat</a></li>
+  <li><a href="{% url 'etablissement:comptabilite' %}">Situation Comptable</a></li>
+  <li><a href="{% url 'etablissement:foyer' %}">Foyer</a></li>
+  <li style="float:right"><a href="{% url 'etablissement:logout' %}">Deconnexion</a></li>
+</ul>
+<h2><b>Bienvenue {{user.username}}</b></h2>
+{% if envoi %}Eleve {% endif %}
+<form action="{% url 'etablissement:foyer' %}" method="post">
+{% csrf_token %}
+{{ form.as_table }}
+<input type="submit" value="Ajouter foyer" />
+</form>
+
+</body>
+</html>

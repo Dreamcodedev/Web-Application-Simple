@@ -1,0 +1,551 @@
+Civilité,Nom,Prénom,Date de naissance,NNI,Frai d'inscription,Année Scolaire,Etablissement,Classe,N° Elève,Adresse,Login,Mot de Passe,Confirmation de MP,Adresse Mail,N° Téléphone,Tuteur 1,Tel Tuteur 1,Mail tuteur 1,Tuteur 2,Tel tuteur 2,Mail tuteur 2,Foyer
+Mr,Sy,Abdoulaye Seidou,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,1,,,,,,,Fatimata Sidi Ba,47464423,,,,,{Fatimata Sidi Ba}
+Mr,Sy,Djibril Seidou,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,2,,,,,,,Fatimata Sidi Ba,47464423,,,,,{Fatimata Sidi Ba}
+MMe,Barro,Oumou Koursoum Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,3,,,,,,,Abdoulaye Barro,46428964,,,,,{Abdoulaye Barro}
+MMe,Yattabaré,Binta Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,4,,,,,,46715557,Yattabaré,46715557,,,,,
+MMe,Niang,Rella Seydou,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,5,,,,,,,Niang Seydou Doro,46495489,,,,,{Niang Sedou Doro}
+MMe,Camara,Aminata Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,6,,,,,,,Diadié Gagui Camara,46419884,,,,,{Diadié Gagui Camara}
+Mr,Bä,Ibrahim Bocar,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,7,,,,,,46846558,Bä,46846558,,,,,
+Mr,Sidibé,Sidi Mamadu,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,8,,,,,,27966050,Sidibé,27966050,,,,,
+Mr,Dia,Adama Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,9,,,,,,,Moctar Dia,38550173,,,,,Moctar Dia
+MMe,Sow,Rouguy Alassane,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,10,,,,,,,Zeinabou Sow,49188790,,,,,Zeinabou Sow
+MMe,Sow,Fatimata Salif,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,11,,,,,,,Zeinabou Sow,49188790,,,,,Zeinabou Sow
+Mr,Camara,Kansolé Fodé,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,12,,,,,,,Camara,48185002,,,,,
+MMe,Camara,Meime Sadio,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,13,,,,,,,Camara,20974786,,,,,
+MMe,Aïdara,Maïmouna Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,14,,,,,,,Aïdara,48332197,,,,,
+MMe,Dia,Ramatoulaye Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,15,,,,,,,Dia,49492379,,,,,
+MMe,Saloum,Aïcha Mohamed ,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,16,,,,,,,Dia,46329793,,,,,
+MMe,Athié,Hawath Ibrahima,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,17,,,,,,,Athié,46584914,,,,,
+Mr,Soumaré,Bouko,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,18,,,,,,,Soumaré,46584914,,,,,
+Mr,Koïta,Moussa Issa,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,19,,,,,,,Fodié Koïta,49716465,,,,,Fodié Koïta
+MMe,Koïta,Aminata Lamine,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,20,,,,,,,Fodié Koïta,49716465,,,,,Fodié Koïta
+MMe,Kanouté,Fodé Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,21,,,,,,,Gaye Kanouté,46082791,,,,,Gaye Kanouté
+MMe,M'Baye,Mouhamedou Alassane,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,22,,,,,,,M'baye,46505585,,,,,
+Mr,N'Diaye,Mohamed Yahya,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,23,,,,,,,NDiaye,46595908,,,,,
+MMe,Cissokho,Zeïnabou Yaccoub,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,24,,,,,,,Yacoub Cissokho,46755301,,,,,Yacoub Cissokho
+MMe,Cissé,Aïcha Boubou ,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,25,,,,,,,Cissé,48282797,,,,,Yacoub Cissokho
+Mr,Cissokho,Oumar Demba,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,26,,,,,,,Demba Cissokho,32300452,,,,,Demba Cissokho
+MMe,Athié,Maimouna Abdoul,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,27,,,,,,,Athié,46584914,,,,,
+Mr,Sall,Amadou Idrissa,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,28,,,,,,,Sall,47729588,,,,,
+Mr,Camara,Aly Hadeteou,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,29,,,,,,,Camara,20974786,,,,,
+Mr,Diop,Abou Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,30,,,,,,,Diop,,,,,,
+Mr,Soumaré,Mohamed Demba,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,31,,,,,,,Soumaré,38141022,,,,,
+Mr,Bä,Ousmane Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,32,,,,,,,Bä,46831490,,,,,
+Mr,Camara,Biyagui Hanoune,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,33,,,,,,,Aly Camara,49237496,,,,,Aly Camara
+Mr,Dia,Mamadou Harouna,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,34,,,,,,,Dia Harouna Oumar,46602294,,,,,Dia Harouna Oumar
+MMe,Camara,Meima Samba,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,35,,,,,,,Camara,46909141,,,,,
+Mr,Aïdara,Saleck Ahmed,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,36,,,,,,,Ahmed,22297848,,,,,Ahmed
+Mr,Camara,Abdoullah Malick,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,37,,,,,,,Camara,49237496,,,,,
+Mr,Amar,Oumar Kh'lil Bilal,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,38,,,,,,,Amar,46495501,,,,,
+Mr,Wane,Ismaila Sada,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,39,,,,,,,Ghaguibou Bâ,46406006,,,,,Ghaguibou Bâ
+Mr,Wane,Birame Sada,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,40,,,,,,,Ghaguibou Bâ,46406006,,,,,Ghaguibou Bâ
+MMe,Bâ,Bongal Saboy,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,41,,,,,,,Bâ,38177702,,,,,
+MMe,Tandia,Baye Sandi,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,42,,,,,,,Tandia,44828161,,,,,
+Mr,Christophe,Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,43,,,,,,,Minetou Sonia,22378494,,,,,Minetou Sonia
+Mr,Hanne,Amady Amady,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,44,,,,,,,Hanne,49820311,,,,,
+MMe,Athié,Salamata Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,45,,,,,,,Athié,46584914,,,,,
+MMe,Saadou,Sidi Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,46,,,,,,,Souleymane Saadou,46472011,,,,,Souleymane Saadou
+MMe,Kébé,N'Goné Mansour,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,47,,,,,,,Mansour Kébé,46769432,,,,,Mansour Kébé
+MMe,Wane,Hamath Mamadou Hady,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,48,,,,,,,Wane,48495420,,,,,
+MMe,Dem,Marième Babou,,,,2020_2021,GSP Al Vaida & El Awlama,1ere AS,49,,,,,,,Dem,46485637,,,,,
+Mr,Diawara,Adama Ismaïla,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,1,,,,,,,Diawara,36277754,,,,,Diawara
+MMe,Tandia,Fatimatou Hadiyatou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,2,,,,,,,MMe Tandia,46451966,,,,,MMe Tandia
+MMe,Diop,Coumba Majib,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,3,,,,,,,Diop,46485043,,,,,
+MMe,Gaye,Youssouf Mamdou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,4,,,,,,,Gaye,46521214,,,,,
+Mr,Camara,Moctar Mamdou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,5,,,,,,,Djigo,46308805,,,,,Djigo
+Mr,Djigo,Abdoul Souleymane,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,6,,,,,,,Djigo,46308805,,,,,Djigo
+MMe,Soumaré,Mara Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,7,,,,,,,Gaye Soumaré,46780762,,,,,Gaye Soumaré
+MMe,Djigo,Khadijetou Habib,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,8,,,,,,,Djigo,36303511,,,,,
+MMe,Bassoum,Penda Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,9,,,,,,,Bassoum,44455201,,,,,
+MMe,Soumaré,Hawa Boudalaye,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,10,,,,,,,Soumaré,27262729,,,,,
+Mr,Traoré,Fodie Fousseinou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,11,,,,,,,Fousseinou Traoré,41029409,,,,,Fousseinou Traoré
+Mr,Traoré,Abdou Fousseinou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,12,,,,,,,Fousseinou Traoré,41029409,,,,,Fousseinou Traoré
+Mr,Traoré,Djidi Brahima,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,13,,,,,,,Traoré,46037250,,,,,
+MMe,Tall,Oumoulkheiry Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,14,,,,,,,Mamadou Tall,44983019,,,,,Mamadou Tall
+Mr,Camara,Aly Seïdou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,15,,,,,,,Camara,36333496,,,,,
+MMe,Traoré,Sira Diadie,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,16,,,,,,,Traoré,48793587,,,,,
+Mr,Sidibé,Ismaïla Lassanan,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,17,,,,,,,Sidibé,48593732,,,,,
+Mr,Dianifaba,Yahya Soulé,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,18,,,,,,,Dianifaba,26823629,,,,,
+MMe,Fall,Fatimetou Mouhatt,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,19,,,,,,,Marième Diakhaté,46730907,,,,,Marième Diakhaté
+Mr,Konté,Souadou Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,20,,,,,,,Konté,46433589,,,,,
+Mr,Sidi,Aminata,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,21,,,,,,,Sidi,,,,,,
+Mr,Soumaré,Salou Fodé,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,22,,,,,,,Soumaré,41021073,,,,,
+Mr,Soumaré,Abdoullahi Demba,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,23,,,,,,,Soumaré,46627553,,,,,
+Mr,Soumaré,Coumba Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,24,,,,,,,Soumaré,46599569,,,,,
+Mr,Diagana,Aliou Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,25,,,,,,,Diagana,44027068,,,,,
+MMe,Cissé,Ndeye Fatou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,26,,,,,,,Cissé,4369973,,,,,
+MMe,Ly,Ramata Samba,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,27,,,,,,,Ly,46931944,,,,,
+MMe,Gueye,Hawa Ismail,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,28,,,,,,,Couliabaly Ismael,46823707,,,,,Couliabaly Ismael
+MMe,Fall,Ramatoulay Alioune,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,29,,,,,,,Fall,46780922,,,,,
+MMe,Diaw,Rokhaya Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,30,,,,,,,Diaw,47616386,,,,,
+MMe,Fall,Fanta Brahim,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,31,,,,,,,Fall,47616386,,,,,
+Mr,Bathily,Khalidou Cheikhna,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,32,,,,,,,Bathily,46856261,,,,,
+Mr,Camara,Hamady Seydi,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,33,,,,,,,Aly Camara,49237496,,,,,Aly Camara
+MMe,Gassama,Coumba Diaguily,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,34,,,,,,,Gassama,46246880,,,,,
+MMe,Niang,Aicha Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,35,,,,,,,Niang,46091880,,,,,
+Mr,Camara,Ismail Harouna,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,36,,,,,,,Camara,49237496,,,,,
+MMe,Thiam,Houlayeye Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,37,,,,,,,Thiam,41757263,,,,,
+Mr,Diop,Oumar Abdou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,38,,,,,,,Diop,46421324,,,,,Diop
+MMe,Deida Ahmed,Warda,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,39,,,,,,,Ahmed,22297848,,,,,Ahmed
+MMe,Niang,Ramata Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,40,,,,,,,Niang,46859079,,,,,Niang
+MMe,Mohamed,Imigine,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,41,,,,,,,Mohamed Fall,41035143,,,,,Mohamed Fall
+Mr,Cheikh Brahim,Moustapha,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,42,,,,,,,Cheikh Brahim,37116531,,,,,Cheikh Brahim
+Mr,Bâ,Adama Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,43,,,,,,,Mamadou Adama Bâ,44477027,,,,,Mamadou Adama Bâ
+MMe,Soura,Dada,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,44,,,,,,,Minetou Sonia,22378494,,,,,Minetou Sonia
+Mr,Sokhna,Bakary Demba,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,45,,,,,,,Diakarou Sokhna,48811345,,,,,Diakarou Sokhna
+Mr,Diallo,Oumar Barré,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,46,,,,,,,Diallo,46093994,,,,,
+Mr,Cissé,Sidi Harouna,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,47,,,,,,,Youssouf Cissé,47774599,,,,,Youssouf Cissé
+Mr,Camara,Abadellahi Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,48,,,,,,,Camara,48507207,,,,,
+Mr,N’Gaidé,Moussa Hamath,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,49,,,,,,,N’Gaidé,46434347,,,,,
+Mr,Gaye,Yerim Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,50,,,,,,,Gaye,48260084,,,,,
+MMe,Magassouba,Sourakhala Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,51,,,,,,,Magassouba,46556218,,,,,
+Mr,Dieng,Abdou Alioune,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,52,,,,,,,Dieng,22357463,,,,,
+MMe,Niass,Ramatoulaye Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,53,,,,,,,Niass,46447173,,,,,
+Mr,Wone,Mohamed Kalidou,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,54,,,,,,,Wone,46772794,,,,,
+Mr,Koïta,N’Diobo Bourama,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,55,,,,,,,Koïta,46409667,,,,,
+Mr,Amara,Yéo,,,,2020_2021,GSP Al Vaida & El Awlama,2eme AS1,56,,,,,,,Amara,32373672,,,,,
+MMe,Soumaré,Aminata Demba,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,1,,,,,,,Soumaré,46925583,,,,,
+MMe,Barro,Fatimata Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,2,,,,,,,Abdoulaye Barro,46428964,,,,,Abdoulaye Barro
+MMe,Thiam ,Aminata El Hassen,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,3,,,,,,,Abdoulaye Barro,46428964,,,,,Abdoulaye Barro
+MMe,Vadel,Minetou Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,4,,,,,,,Vadel,46813962,,,,,
+MMe,Camara,Mema Ely,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,5,,,,,,,Ely Camara,46412469,,,,,Ely Camara
+Mr,S’id,Mohamed Ethmane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,6,,,,,,,Ahmed Sira,46924084,,,,,Ahmed Sira
+Mr,Soumaré,Yelli Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,7,,,,,,,Issa Sakho,47483817,,,,,Issa Sakho
+MMe,Soumaré,Hadiétou Daouda,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,8,,,,,,,Issa Sakho,47483817,,,,,Issa Sakho
+MMe,Diop,Aissata Bocar,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,9,,,,,,,Bocar Diop,46421067,,,,,
+MMe,Fall,Bourry Malick,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,10,,,,,,,Fall,47616386,,,,,
+Mr,Camara,Diadié Doudou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,11,,,,,,,Camara,27262729,,,,,
+MMe,Seck,Salma Maguet,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,12,,,,,,,Seck,47291229,,,,,
+MMe,Bâ,Aminata Ibrahma,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,13,,,,,,,Bâ,46823619,,,,,
+Mr,N’Diaye,Tabilé Sadifou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,14,,,,,,,N’Diaye,46067814,,,,,
+MMe,N’Diogue,Ramatoulaye Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,15,,,,,,,Abdoulaye N’Diogue,46477384,,,,,Abdoulaye N’Diogue
+Mr,Kanouté,Boubou Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,16,,,,,,,Gaye Kanouté,46082791,,,,,Gaye Kanouté
+Mr,Cissé,Demba Hadiyetou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,17,,,,,,,Cissé,36806419,,,,,
+MMe,Camara,Coumba Malick,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,18,,,,,,,Camara,48433469,,,,,
+MMe,N’Diaye,Ramata Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,19,,,,,,,N’Diaye,46777824,,,,,
+Mr,Sow,Aly Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,20,,,,,,,Sow,46440297,,,,,
+Mr,Bâ,Soulé Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,21,,,,,,,Bâ,46411707,,,,,
+MMe,Diallo,Racky Salif,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,22,,,,,,,Salif Diallo,44855912,,,,,Salif Diallo
+Mr,Soueilick,Soueilick,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,23,,,,,,,Soueilick,46962382,,,,,
+MMe,Barro,Fatimata Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,24,,,,,,,Barro,46759041,,,,,
+MMe,Sow,Djeinaba Salah,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,25,,,,,,,Zeinabou Sow,49188790,,,,,Zeinabou Sow
+Mr,Diouf,Moussa Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,26,,,,,,,Mamadou Diouf,48185002,,,,,Mamdou Diouf
+Mr,Dieng,Zeydane Nasserdine,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,27,,,,,,,Mamadou Diouf,48185002,,,,,Mamdou Diouf
+Mr,Dioum,Mor Thierno,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,28,,,,,,,Dioum Oumar Diagne,32594436,,,,,Dioum Oumar Diagne
+Mr,Dièye,Mamadou Magué,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,29,,,,,,,Dioum Oumar Diagne,32594436,,,,,Dioum Oumar Diagne
+MMe,Coulibaly,Hawa Fossou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,30,,,,,,,Coulibaly,46153434,,,,,
+Mr,Traoré,Mohamed Abdallahi,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,31,,,,,,,Lassana Cissokho,46439801,,,,,Lassana Cissokho
+Mr,Cissokho,Abdallahi Samba,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,32,,,,,,,Lassana Cissokho,46439801,,,,,Lassana Cissokho
+MMe,Sy,Marièe Ifra,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,33,,,,,,,Sy,46098495,,,,,
+MMe,Diop,Maïmouna Malick,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,34,,,,,,,Malick Diop,36304099,,,,,
+MMe,Camara,Lallia Fodé,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,35,,,,,,,Camara,36624366,,,,,
+Mr,Koita,Mohamed Limane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,36,,,,,,,Koïta,20174412,,,,,
+MMe,Diaouné,Sokhna Alassane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,37,,,,,,,Diaouné,34473541,,,,,Diaouné
+MMe,Diaouné,Néné Alassane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,38,,,,,,,Diaouné,34473541,,,,,Diaouné
+Mr,Diakité,Silly Mankama,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,39,,,,,,,Diakité,47135271,,,,,
+MMe,Camara,Racky Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,40,,,,,,,Camara,48557091,,,,,
+Mr,Camara,Tombo Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,41,,,,,,,Camara,48557091,,,,,
+Mr,Touré ,Abdou Wahab Adama,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,42,,,,,,,Adama Touré,48526307,,,,,Adama Touré
+MMe,M’Bow,Hawa Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,43,,,,,,,Amadou M’Bow,22427774,,,,,Amadou M’Bow
+Mr,Wane,Abdoulaye Ibrahima,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS1,44,,,,,,,Wane,46462980,,,,,
+MMe,Lô,Fatimata Souleymane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,1,,,,,,,Lô,41680779,,,,,
+Mr,Cissokho,Bassyla Yacoub,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,2,,,,,,,Yacoub Cissokho,46755301,,,,,Yacoub Cissokho
+Mr,Koita,Oumar Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,3,,,,,,,Koita,46720188,,,,,
+Mr,Cissé,Sidi Salya,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,4,,,,,,,Cissé,34281867,,,,,
+MMe,Soumaré,Lalia Sallou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,5,,,,,,,Soumaré,49717030,,,,,
+MMe,Fall,Khadijetou Ahmed,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,6,,,,,,,Babacar Souleymane Fall,48857665,,,,,Babacar Souleymane Fall
+Mr,Sy,Babacar Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,7,,,,,,,Babacar Souleymane Fall,48857665,,,,,Babacar Souleymane Fall
+MMe,Camara,Fenda Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,8,,,,,,,Camara,41096142,,,,,
+MMe,Cissé,Tacko Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,9,,,,,,,Moussa Cissé,27373822,,,,,Moussa Cissé
+Mr,Mahloud,Aly ,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,10,,,,,,,Moussa Cissé,27373822,,,,,Moussa Cissé
+MMe,Ly,Salamata Mouhamedou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,11,,,,,,,Ly Aboubacry,44280405,,,,,Ly Aboubacry
+MMe,Ly,Farmata Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,12,,,,,,,Ly Aboubacry,44280405,,,,,Ly Aboubacry
+Mr,Tall,Abdoul Al Housseinou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,13,,,,,,,Tall,48942028,,,,,
+Mr,Sy,Moussa Abou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,14,,,,,,,Abou Sy,46466421,,,,,Abou SY
+Mr,Koné,Sadio Boubacar,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,15,,,,,,,Koné,43711000,,,,,
+Mr,Cissé,Sidi Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,16,,,,,,,Cissé,42932098,,,,,
+Mr,Seck,Mamadou Yahya,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,17,,,,,,,Seck,46531949,,,,,
+Mr,Diaw,Lamine Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,18,,,,,,,Diaw,47616386,,,,,
+MMe,Diao,Coumba,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,19,,,,,,,Diao,47616386,,,,,Diao
+Mr,Diao,Cissé,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,20,,,,,,,Diao,47616386,,,,,Diao
+Mr,Camara,Sidi Demba,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,21,,,,,,,Diarra Camara,49141375,,,,,Diarra Camara
+Mr,Camara,Hamara Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,22,,,,,,,Diarra Camara,49141375,,,,,Diarra Camara
+MMe,Diallo,Haby Hamady,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,23,,,,,,,Diallo,46470786,,,,,
+Mr,Dia,Bocar Elymane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,24,,,,,,,Dia,46738893,,,,,
+Mr,Tall,Alioune Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,25,,,,,,,Mamadou Tall,44983019,,,,,Mamadou Tall
+Mr,Diallo,Alassane Hamady,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,26,,,,,,,Dallo,46470786,,,,,
+Mr,Camara,Lassana Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,27,,,,,,,Camara,41868724,,,,,
+MMe,Cissokho,Khadijetou Demba,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,28,,,,,,,Demba Cissokho,32300452,,,,,Demba Cissokho
+Mr,Bousso,Abd Samed,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,29,,,,,,,Ibnou Oumar Bousso,46584914,,,,,Ibnou Oumar Bousso
+MMe,Camara,Aichetou Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,30,,,,,,,Camara,48171386,,,,,
+Mr,Camara,Talibé Boudra,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,31,,,,,,,Camara,44608371,,,,,
+Mr,Messouda,Maimouna ,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,32,,,,,,,Messouda,30609068,,,,,
+Mr,Diagana,Bouna Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,33,,,,,,,Ousmane Diagana,46012700,,,,,Ousmane Diagana
+Mr,Camara,Bakary Galadio,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,34,,,,,,,Camara,41096142,,,,,
+Mr,Moctar,Mohamed Lemine,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,35,,,,,,,Ahmed Ould Bouna,46742182,,,,,Ahmed Ould Bouna
+MMe,Ahmed,Temena,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,36,,,,,,,Ahmed Ould Bouna,46742182,,,,,Ahmed Ould Bouna
+MMe,Dieng,Fatoumata,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,37,,,,,,,Dieng,22357463,,,,,
+Mr,Haidara,Mohamed Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,38,,,,,,,Haidara,48332197,,,,,
+MMe,Sarr,Aissata Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,39,,,,,,,Sarr,47512773,,,,,
+Mr,Diallo,Alassane Hamidou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,40,,,,,,,Hamidou Diallo,46592950,,,,,Hamidou Diallo
+Mr,Touré ,Abdourahmane Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,41,,,,,,,Hamidou Diallo,46592950,,,,,Hamidou Diallo
+Mr,Sarr,Ousmane Ibrahima,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,42,,,,,,,Sarr,44911169,,,,,
+Mr,Bâ,Amadou Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,43,,,,,,,Mamadou Adama Bâ,44477027,,,,,Mamadou Adama Bâ
+Mr,Tall,Abdourahmane Housseinou,,,,2020_2021,GSP Al Vaida & El Awlama,3eme AS2,44,,,,,,,Tall,46040936,,,,,
+MMe,Diawara,Aicha Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,1,,,,,,,Oumar Diawara,47303759,,,,,Oumar Diawara
+Mr,Diawara,Cheikhou Ismaila,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,2,,,,,,,Diawara,36277754,,,,,Diawara
+Mr,Soumaré,Boulaye Bekaye,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,3,,,,,,,Soumaré,46439801,,,,,
+Mr,Barro,Amadou Daouda,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,4,,,,,,,Abdoulaye Barro,46428964,,,,,Abdoulaye Barro
+MMe,Fall,Aichetou Yacoub,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,5,,,,,,,N’Diongue,41926632,,,,,N’Diongue
+MMe,Sy,Rouwane Samba,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,6,,,,,,,N’Diongue,41926632,,,,,N’Diongue
+MMe,Kénémé,Kadiata Seidi,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,7,,,,,,,Seidi Kénémé,46431495,,,,,Seidi Kénémé
+MMe,Gueye,Anta Moustapha,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,8,,,,,,,Moustapha Gueye,44387060,,,,,Moustapha Gueye
+Mr,Diabira,Yahya Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,9,,,,,,,Gaye Diabira,41377907,,,,,Gaye Diabira
+Mr,Gueye,Souleymane Ismaila,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,10,,,,,,,Coulibaly Ismael,46823707,,,,,Coulibaly Ismael
+Mr,Cissé,Bakary Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,11,,,,,,,Cissé,48181259,,,,,
+Mr,Cissé,Bakary Youssouf,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,12,,,,,,,Cissé,49226579,,,,,
+Mr,Seck,Ibrahima Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,13,,,,,,,Amadou Seck,46509138,,,,,Amadou Seck
+Mr,N’Diaye,Samba Soumaré,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,14,,,,,,,Soumaré,44073471,,,,,
+MMe,Diarra,Aichetou Sadifou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,15,,,,,,,Diarra,47757057,,,,,
+Mr,Traoré,Diaguily Fousseinou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,16,,,,,,,Fousseinou Traoré,41029409,,,,,Fousseinou Traoré
+Mr,Diakhaté,Mohamed Bechir,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,17,,,,,,,Baba Diakhaté,46432179,,,,,Baba Diakhaté
+Mr,Camara,Bonko Boudé,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,18,,,,,,,Camara,41833450,,,,,
+MMe,Ethmane,Zeinabou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,19,,,,,,,Ethmane,36360265,,,,,
+MMe,Sokhona,Wouroukhiya Daouda,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,20,,,,,,,Sokhona,49698922,,,,,
+Mr,Camara,Yassa Samba,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,21,,,,,,,Camara,37706113,,,,,
+Mr,Diakhaté,Sidi Cheibany,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,22,,,,,,,Diakhaté,46719319,,,,,
+Mr,Tireira,Boya Samba,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,23,,,,,,,Samba Tireira,46411961,,,,,Samba Tireira
+MMe,Diagana,Salimata Ibrahima,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,24,,,,,,,Samba Tireira,46411961,,,,,Samba Tireira
+Mr,Sow,Oumar Alassane,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,25,,,,,,,Zeinabou Sow,49188790,,,,,Zeinabou Sow
+MMe,Camara,Mariam Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,26,,,,,,,Camara,48185002,,,,,
+Mr,Dia,Abdoulaye Baidy,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,27,,,,,,,Fatimata Ly,46868950,,,,,Fatimata Ly
+Mr,Niang,Abderrahmane Idrissa,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,28,,,,,,,Niang,38030416,,,,,Niang
+Mr,Dia,Fatimata Abou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,29,,,,,,,Dia,46863003,,,,,
+Mr,Mbaye,Mamadou Alassane,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,30,,,,,,,Mbaye,46505585,,,,,
+MMe,Camara,Guéda Touguèye,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,31,,,,,,,Camara,46793089,,,,,
+Mr,Ba ,Oumar Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,32,,,,,,,Amadou Ba,36334478,,,,,Amadou Ba
+MMe,Cissé,Asma Aly,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,33,,,,,,,Cissé,48135506,,,,,
+Mr,Sidibé,Cheikh Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,34,,,,,,,Sidibé,44680681,,,,,
+MMe,M’Bow,Racky Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,35,,,,,,,Amadou M’Bow,22427774,,,,,Amadou M’Bow
+Mr,Diagana,Biri Djeidi,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,36,,,,,,,Diagana,49290940,,,,,
+Mr,Diop,Mamadou Aboubacry,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,37,,,,,,,Aboubacry Diop,46880446,,,,,
+MMe,Diakité,Fatimata Aliou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,38,,,,,,,Aliou Diakité,46432570,,,,,Aliou Diakité
+MMe,Soumaré,Maimouna Samba,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,39,,,,,,,Soumaré,41576319,,,,,
+MMe,Dicko,Salimata Cheikh,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,40,,,,,,,Dicko,46759615,,,,,
+Mr,Sow,Hamady Ibrahima,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,41,,,,,,,Spw,46474117,,,,,
+MMe,Fall,Aicha Babacar,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,42,,,,,,,Babacar Souleymane Fall,46857665,,,,,Babacar Souleymane Fall
+MMe,Sy,Aicha Birane,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,43,,,,,,,Babacar Souleymane Fall,46857665,,,,,Babacar Souleymane Fall
+MMe,Sokhona,Bintou Harouna,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS1,44,,,,,,,Harouna Bakary Sokhona,47551315,,,,,Harouna Bakary Sokhona
+Mr,Sylla,Salou Cheikhou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,1,,,,,,,Sylla,48469702,,,,,
+MMe,Diabira,Assia Seydou ,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,2,,,,,,,Diabira,46576135,,,,,
+Mr,Kouyaté,Souleymane Mody,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,3,,,,,,,Mody,46477745,,,,,
+MMe,Bâ,Binta Cherif,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,4,,,,,,,Bâ,37044936,,,,,
+Mr,Gaye,Babacar Alioune,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,5,,,,,,,Gaye,22495728,,,,,
+Mr,Fall,N’Dery Brahim,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,6,,,,,,,Fall,47616386,,,,,
+Mr,Camara,Adama Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,7,,,,,,,Bakary Camara,46004146,,,,,Bakary Camara
+MMe,Camara,Hawa Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,8,,,,,,,Bakary Camara,46004146,,,,,Bakary Camara
+MMe,Camara,Kagné Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,9,,,,,,,Bakary Camara,46004146,,,,,Bakary Camara
+Mr,Camara,Ahmed Cheikh,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,10,,,,,,,Camara,46078662,,,,,
+Mr,Camara,Samba Cheikhou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,11,,,,,,,Cheikhou Camara,46526766,,,,,Cheikhou Camara
+MMe,Camara,Bano Hamara,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,12,,,,,,,Cheikhou Camara,46526766,,,,,Cheikhou Camara
+Mr,Fassa,Zeydi,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,13,,,,,,,Cheikhou Camara,46526766,,,,,Cheikhou Camara
+Mr,Sidibé,Idrissa Karamokho,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,14,,,,,,,Sidibé,46219090,,,,,
+MMe,Sow,Khardiata Younouss,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,15,,,,,,,Younouss Sow,46074903,,,,,Younouss Sow
+Mr,Fall,Abdellahi Godial,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,16,,,,,,,Fall,36635564,,,,,
+MMe,Koné,Kadia Mama,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,17,,,,,,,Koné,44474752,,,,,
+MMe,Sy,Yacine Mamoudou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,18,,,,,,,Sy,32468557,,,,,
+MMe,Brahim,Oumoul Kheïry Cheikh,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,19,,,,,,,Cheikh Brahim,37116531,,,,,Cheikh Brahim
+MMe,Diakité,Khady Aly,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,20,,,,,,,Diakité,46937830,,,,,
+MMe,Touré ,Ramata Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,21,,,,,,,Oumar Touré,74760175,,,,,Oumar Touré
+MMe,Sougou,Khadijétou Salou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,22,,,,,,,Sougou,46466692,,,,,
+Mr,Dioum,Mor Demba,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,23,,,,,,,Dioum ,46715291,,,,,
+MMe,Gaye,Khadijetou Tangoudia ,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,24,,,,,,,Gaye,46004146,,,,,
+MMe,Diacko,Salimata Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,25,,,,,,,Diacko,44038020,,,,,
+MMe,Boye,Fatoumata Souleymane,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,26,,,,,,,Boye,47582257,,,,,
+MMe,Boye,Mariem Abdoulay,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,27,,,,,,,Boye,48670770,,,,,
+MMe,Gandéga,Binta Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,28,,,,,,,Bakary Gandega,46341219,,,,,Bakary Gandega
+Mr,Soumaré,Mohamed Sambou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,29,,,,,,,Soumaré,30466569,,,,,
+Mr,N’Diaye,Moussa Salou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,30,,,,,,,N’Diaye,46564201,,,,,
+MMe,Wane,Aissata Daouda,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,31,,,,,,,Wane,46430390,,,,,
+Mr,Sy,Mamadou Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,32,,,,,,,Hamady Sy,47739067,,,,,
+Mr,Gaye,Abdou Babacar,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,33,,,,,,,Gaye,47173524,,,,,
+Mr,Camara,Abdellahi Sidi,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,34,,,,,,,Camara,46444675,,,,,
+MMe,Athié,Haby Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,35,,,,,,,Athué,46762030,,,,,
+Mr,Cissé,Bechir Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,36,,,,,,,Youssouf Cissé,47774599,,,,,Youssouf Cissé
+Mr,Cissé,Moissé Harouna,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,37,,,,,,,Younouss Sow,47774599,,,,,Youssouf Cissé
+Mr,Diop,Mar Souleymane,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,1,,,,,,,Ahmed Sira,46924084,,,,,Ahmed Sira
+MMe,Gueye,Aissata Moustapha,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,2,,,,,,,Moustapha Gueye,44387060,,,,,Moustapha Gueye
+MMe,Fall,Farmata Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,3,,,,,,,Moctar Fall,36327887,,,,,Moctar Fall
+MMe,Diop,Binta Bocar,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,4,,,,,,,Bocar Diop,46421067,,,,,Bocar Diop
+Mr,Camara,Ibrahima Sidi,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,5,,,,,,,Camara,41024845,,,,,
+MMe,Niang,Aminata Seydou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,6,,,,,,,Niang Seydou Doro,46495489,,,,,Niang Seydou Doro
+Mr,Camara,Aly Daidié,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,7,,,,,,,Diadié Camara,46446470,,,,,Diadié Camara
+MMe,Camara,Fatimata Cheikhou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,8,,,,,,,Diadié Camara,46446470,,,,,Diadié Camara
+Mr,N’Diaye,Sidi Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,9,,,,,,,N’Diaye,32759256,,,,,
+MMe,Cissé,Hawa Fodé,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,10,,,,,,,Cissé,41377907,,,,,
+Mr,Cissokho,Seydi Bâ,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,11,,,,,,,Cissokho,36240027,,,,,
+MMe,Baldé,Aichetou Aliou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,12,,,,,,,Baba Diakhaté,49432179,,,,,Baba Diakhaté
+MMe,Coulibaly,Oumou Salam Biranté,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,13,,,,,,,Coulibaly,41992010,,,,,
+Mr,Diallo,Amadou Tidjane,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,14,,,,,,,Salif Diallo,44855912,,,,,Salif Diallo
+Mr,Mbodj,Ibrahima Idrissa,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,15,,,,,,,Modj,46949057,,,,,
+Mr,Soumaré,Diarra Ibrahima,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,16,,,,,,,Soumaré,49149323,,,,,
+MMe,Douf,Khadihetou Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,17,,,,,,,Mamadou Diouf,36326390,,,,,Mamadou Diouf
+MMe,Diop,Aminata Malick,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,18,,,,,,,Malick Diop,36304099,,,,,Malick Diop
+Mr,Dia,Abdouaye Alioune,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,19,,,,,,,Dia,41523532,,,,,
+MMe,Fall,Fatoumata Yoro,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,20,,,,,,,Fall,46479561,,,,,
+MMe,Cissé,Diampolo Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,21,,,,,,,Cissé,46491023,,,,,
+Mr,Bâ,Abou Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,22,,,,,,,Amadou Bâ,36334478,,,,,Amadou Ba
+MMe,Sao,Djeinaba Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,23,,,,,,,Sao,46421081,,,,,
+MMe,Ly,Khadijetou Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,24,,,,,,,Ly,46460600,,,,,
+Mr,Sow,Kalilou Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,25,,,,,,,Sow,46906148,,,,,
+Mr,Fall,Mohamed Mouhatt,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,26,,,,,,,Marième Diakhaté,46730907,,,,,Marième Diakhaté
+Mr,N’Diogue,Amadou Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,27,,,,,,,Abdoulaye N’Diogue,46477384,,,,,Abdoulaye N’Diogue
+MMe,Diop,N’Diawar Kane Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,28,,,,,,,Diop,46414620,,,,,
+MMe,Diop,Aissata Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,29,,,,,,,Aboubacry Diop,46880446,,,,,Aboubacry Diop
+Mr,Diakité,Yakhoub Aliou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,30,,,,,,,Aliou Diakité,46432570,,,,,Aliou Diakité
+Mr,Sow,Daouda Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,31,,,,,,,Sow,46553682,,,,,
+Mr,Thiam,Mohamed El Habib Bocar,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,32,,,,,,,Thiam,44096215,,,,,
+Mr,Ba ,Amadou Modou Bocar,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,33,,,,,,,Bâ ,46704395,,,,,
+MMe,Aimar,Vatma Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,34,,,,,,,Aimar,47568994,,,,,
+Mr,Sidi,Abdellahi Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,35,,,,,,,Sidi,48256729,,,,,
+MMe,Lôm,Mariam Mika,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,36,,,,,,,Lom,44015381,,,,,
+Mr,Camara,Fousseinou Sourakhé,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,37,,,,,,,Camara,49710814,,,,,
+Mr,Koné,Bacary Sadio,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,38,,,,,,,Koné,48645485,,,,,
+Mr,Fall,Cheikh Sid’Ahmed,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,39,,,,,,,Fall,46012527,,,,,
+MMe,Sy,Kiné Abdoulay,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,40,,,,,,,Boubacar Souleymane Fall,46857665,,,,,Boubacar Souleymane Fall
+Mr,Camara,Harouna Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,41,,,,,,,Camara,46592144,,,,,
+MMe,Camara,Vatma Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,42,,,,,,,Camara,46638963,,,,,
+MMe,Sokhona,Diarra Seydou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,43,,,,,,,Harouna Bakary Sokhona,47551315,,,,,Harouna Bakary Sokhona
+Mr,N’Diaye,Ibrahima harouna,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,44,,,,,,,N’Diaye,41445716,,,,,
+MMe,Camara,Assana Boubou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,45,,,,,,,Camara,38041478,,,,,
+Mr,Sow,Moussa Samba,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,46,,,,,,,Sow,4110106,,,,,
+MMe,Sy,Coumba Abou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,47,,,,,,,Abou Sy,46466421,,,,,Abou Sy
+MMe,Rouwoye,Fatimata Issa,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,48,,,,,,,Rouwoye,41025835,,,,,
+Mr,Sidibé,Samba Kodoré,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,49,,,,,,,Col Sidibé,46430476,,,,,Col Sidibé
+MMe,Ba ,Djiénaba Seydou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,50,,,,,,,Ba ,41596123,,,,,
+Mr,Camara,Kolo Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,51,,,,,,,Bakary Camara,46004146,,,,,Bakary Camara
+MMe,Dia,Oumoulkelthoum Harouna,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,52,,,,,,,Dia Harouna Oumar,46502294,,,,,Dia Harouna Oumar
+Mr,Mohamed,Alioune,,,,2020_2021,GSP Al Vaida & El Awlama,5eme D,53,,,,,,,Mohamed Fall,41035143,,,,,Mohamed Fall
+MMe,Seye,Fatou Binta,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,1,,,,,,,Ahmed Sira,46924084,,,,,Ahmed Sira
+MMe,Soumaré,Hawa Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,2,,,,,,,Gaye Soumaré,46780762,,,,,Gaye Soumaré
+MMe,Soumare,Lallia Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,3,,,,,,,Gaye Soumaré,46780762,,,,,Gaye Soumaré
+MMe,Camara,Coumba Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,4,,,,,,,Diadié Camara,46446470,,,,,Diadié Camara
+MMe,Diagne,Rokhaya Youssouf,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,5,,,,,,,Khady Gaye,47598488,,,,,Khady Gaye
+Mr,Sy,Mohamed El Hadi Mansour,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,6,,,,,,,Sy,46821576,,,,,
+MMe,Baba,Fatima,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,7,,,,,,,Baba,46472270,,,,,
+Mr,Coulibaly,Harouna Silly,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,8,,,,,,,Coulibaly,49453923,,,,,
+Mr,Koné,Moussa Samba,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,9,,,,,,,Koné,49834163,,,,,
+Mr,Diarra,Adama Bakari,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,10,,,,,,,Diarra,46636350,,,,,
+MMe,Camara,Fouleiye Boubou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,11,,,,,,,Camara,49436813,,,,,
+MMe,Sow,Djeinaba Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,12,,,,,,,Ousmane Sow,47766720,,,,,Ousmane Sow
+MMe,Sarr,Fati Cheikh,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,13,,,,,,,Sarr,47790683,,,,,
+MMe,Wagué,Maimouna Baba Yakoub,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,14,,,,,,,Wagué,,,,,,
+Mr,Ba ,Mamadou Demba,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,15,,,,,,,Ba ,46712332,,,,,
+MMe,Ahmed,Khady ,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,16,,,,,,,Ahmed,22297848,,,,,Ahmed
+MMe,Diallo,Djeinaba Hamidou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,17,,,,,,,Hamidou Diallo,46592950,,,,,Hamidou Diallo
+Mr,Sow,Mohamed Alpha,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,18,,,,,,,Hamidou Diallo,46592950,,,,,Hamidou Diallo
+MMe,Kébé,Sokhna Lalla Mansour,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,19,,,,,,,Mansour Kébé,46769432,,,,,Mansour Kébé
+MMe,Athié,Aissata Abou,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,20,,,,,,,Athié,46727822,,,,,
+MMe,Ba ,Hawa Gorgui,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,21,,,,,,,Ba ,46477862,,,,,
+MMe,Diaw ,Zeinabou Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,22,,,,,,,Diaw,46425483,,,,,
+Mr,Soumaré,Binta Ismael,,,,2020_2021,GSP Al Vaida & El Awlama,5eme C,23,,,,,,,Soumaré,46435550,,,,,
+Mr,Diarra,Abdellahi Mody,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,1,,,,,,,Diarra,26973084,,,,,
+Mr,Sy,Demba Seidou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,2,,,,,,,Fatimata Sidi Ba,47464423,,,,,Fatimata Sidi Ba
+MMe,Diallo,Fatimata Daha,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,3,,,,,,,Moctar Fall,36327887,,,,,Moctar Fall
+Mr,Sow,Cheikh Tidjane Mamoudou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,4,,,,,,,Sow,22612950,,,,,
+MMe,Diakité,Fatoumata Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,5,,,,,,,Diakité,20956548,,,,,
+Mr,Camara,Kollo Boubou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,6,,,,,,,Camara Boubou,49695525,,,,,Camara Boubou
+MMe,Diabira,Hawa Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,7,,,,,,,Gaye Diabira,41377907,,,,,Gaye Diabira
+MMe,Soumaré,Fatmata Aly,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,8,,,,,,,Aly Soumaré,46443479,,,,,Aly Soumaré
+MMe,Diallo,Marième Malick,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,9,,,,,,,Diallo,46757013,,,,,
+Mr,Tireira,Mohamed Samba,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,10,,,,,,,Samba Tireira,46411961,,,,,Samba Tireira
+Mr,Lam ,Mamadou Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,11,,,,,,,Lam,46589063,,,,,
+Mr,Sidibé,Issa Boubou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,12,,,,,,,Sidibé,49691665,,,,,
+Mr,Camara,Gualadio Yelly,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,13,,,,,,,Yelly Camara,41033739,,,,,
+MMe,Camara,Coumba Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,14,,,,,,,Bakary Camara,46004146,,,,,Bakary Camara
+MMe,Sokhona,Dialla Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,15,,,,,,,Abderahmane Sokhona,37007203,,,,,Abderahmane Sokhona
+MMe,Sokhona,Séta Souleymane,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,16,,,,,,,Abderahmane Sokhona,37007203,,,,,Abderahmane Sokhona
+MMe,Diagana,Fatimata Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,17,,,,,,,Dagana,44919170,,,,,
+Mr,Thiam,Mohamed Habib,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,18,,,,,,,Thiam,46469326,,,,,
+Mr,EL Bechir,M’Bareck Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,19,,,,,,,El Bechir,32094131,,,,,
+Mr,Koné,Sadio Abdoul Karim,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,20,,,,,,,Koné,46779895,,,,,
+Mr,Camara,Hanoune Hamady,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,21,,,,,,,Hamady Camara,36200524,,,,,
+MMe,Diallo,Fatim Demba,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,22,,,,,,,Demba Diallo,46546805,,,,,
+MMe,Camara,Nina Aly,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,23,,,,,,,Bakary Camara,44010414,,,,,Bakary Camara
+Mr,Camara,Bakary Sidi,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,24,,,,,,,Bakary Camara,44010414,,,,,Bakary Camara
+Mr,Kébé,EL Housseine Issa,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,25,,,,,,,Kébé,48525579,,,,,
+MMe,Mawloud,Jemila Sidi,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,26,,,,,,,Mawloud,46422834,,,,,
+MMe,Sidibé,Diarry Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,27,,,,,,,Col Sidibé,46430476,,,,,Col Sidibé
+Mr,Diallo,M’barka Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,28,,,,,,,Diallo,46416146,,,,,
+MMe,Ba ,Khadijetou Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,29,,,,,,,Ba ,46800691,,,,,
+Mr,N’Dongo,yahya Daouda,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,30,,,,,,,N’Dongo,46863613,,,,,
+MMe,Babou,Fama Sara,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,31,,,,,,,Babou,41594847,,,,,
+Mr,Konaté,Alioune Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,32,,,,,,,Younouss Sow,46074903,,,,,Younouss Sow
+Mr,Samassa,Cheikh Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,33,,,,,,,Samassa,46516972,,,,,
+MMe,Diallo,Khadijétou Boubacar,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,34,,,,,,,Diallo,46402503,,,,,
+Mr,Dia,Idrissa Boulaye Tangou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,35,,,,,,,Tangou Dia,46875300,,,,,Tangou Dia
+Mr,Diakité,Lamine Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,36,,,,,,,Diakité,41541600,,,,,
+MMe,Gandega,Mariem Bakary,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,37,,,,,,,Bakary Gandega,46341219,,,,,Bakary Gandega
+Mr,Ba ,Alassane Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,38,,,,,,,Ba ,46875300,,,,,
+Mr,Sokhna,Demba Wouleydi,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,39,,,,,,,Diakarou Sokhna,48811345,,,,,Diakarou Sokhna
+Mr,Sokhna,Bakary Wouleydi,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,40,,,,,,,Diakarou Sokhna,48811345,,,,,Diakarou Sokhna
+Mr,Sokhna,Boudra Harouna,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,41,,,,,,,Diakarou Sokhna,48811345,,,,,Diakarou Sokhna
+Mr,Soumaré,Meissé Abdallah,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,42,,,,,,,Soumaré,20856462,,,,,
+MMe,Dia,Maimouna Elhadj,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,43,,,,,,,Dia,46013936,,,,,
+MMe,Diop,Diéwo Alioue,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,44,,,,,,,Diop,48670770,,,,,
+Mr,Ba ,Mohsine Saboye,,,,2020_2021,GSP Al Vaida & El Awlama,6eme D,45,,,,,,,Ba ,46405601,,,,,
+MMe,Cissé,Séta Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,1,,,,,,,Cissé,36330388,,,,,
+MMe,Camara,Coumba Ely,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,2,,,,,,,Ely Camara,46412469,,,,,Ely Camara
+MMe,Kane,Hawa N’diaye,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,3,,,,,,,Kane,48918404,,,,,
+MMe,Sy,Marième Aly,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,4,,,,,,,Sy,46460607,,,,,
+Mr,Soumaré,Diadié Cheikhou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,5,,,,,,,Aly Soumaré,46443479,,,,,Aly Soumaré
+MMe,Seck,Aissata Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,6,,,,,,,Amadou Seck,46509138,,,,,Amadou Seck
+MMe,Traoré,Maimouna Sandia,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,7,,,,,,,Traoré,46389876,,,,,
+MMe,Timéra,Djeinaba Lassana,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,8,,,,,,,Timéra,46874103,,,,,
+MMe,Seck,Marieme Samba,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,9,,,,,,,Seck,46412482,,,,,
+MMe,Sokho ,Aminata Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,10,,,,,,,Sokho ,46430398,,,,,
+MMe,Ly,Oumou Salamata Mountaga,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,11,,,,,,,Ly,41241708,,,,,
+Mr,Tall,Aboubacry Demba,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,12,,,,,,,Tall,46584914,,,,,
+MMe,Camara,Fatimata Moustapha,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,13,,,,,,,Camara,44035540,,,,,
+Mr,Camara,Sidi Ciré,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,14,,,,,,,Camara,41096142,,,,,
+MMe,Diallo,Salimata Daouda,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,15,,,,,,,Diallo,46433586,,,,,
+MMe,Touré ,Aissata Adama,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,16,,,,,,,Adama Touré,48526307,,,,,Adama Touré
+MMe,Sow,Aminata Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,17,,,,,,,Ousmane Sow,47766720,,,,,Ousmane Sow
+Mr,Samba,Boubacar Cheikh Tijane,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,18,,,,,,,Samba,46978404,,,,,
+Mr,Bass ,Mohamed El Kebir Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,19,,,,,,,Bass ,37585571,,,,,
+Mr,Diagana,Mohamed Fodié,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,20,,,,,,,Diagana,46464129,,,,,
+Mr,Touré ,Ibrahima Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,21,,,,,,,Oumar Touré,47730175,,,,,Oumar Touré
+MMe,Touré ,Hawé Djiby,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,22,,,,,,,Touré,46935902,,,,,
+MMe,N’Diaye,Yacine Alpha Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,23,,,,,,,Alpha Oumar N’Diaye,36323785,,,,,Alpha Oumar N’Diaye
+MMe,N'Diaye,Batouly Alpha Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,24,,,,,,,Alpha Oumar N’Diaye,36323785,,,,,Alpha Oumar N’Diaye
+Mr,Touré ,Amadou Hamadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,25,,,,,,,Touré,46725697,,,,,
+Mr,Dia,Adama Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,26,,,,,,,Dia,46815111,,,,,
+MMe,Gueye,Sokhona Djiby,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,27,,,,,,,Gueye,46049731,,,,,
+MMe,Saadou,Aichetou Souleymane,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,28,,,,,,,Saadou,46472011,,,,,
+Mr,Sow,Abou Samba,,,,2020_2021,GSP Al Vaida & El Awlama,6eme C,29,,,,,,,Sow,46446457,,,,,
+MMe,Camara,Fouleimata Beyagui,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,1,,,,,,,Camara,46437804,,,,,
+Mr,Soumaré,Demba Cheikhouna,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,2,,,,,,,Soumaré,46627553,,,,,
+MMe,Diawara,Néné Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,3,,,,,,,Oumar Diawara,47303759,,,,,Oumar Diawara
+Mr,Sylla,Yahya Yelli,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,4,,,,,,,Sylla,49055058,,,,,
+Mr,Camara,Diambéré Sidi Aly,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,5,,,,,,,Camara,48294650,,,,,
+Mr,Diakhaté,Djibril Baba,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,6,,,,,,,Baba Diakhaté,46432179,,,,,Baba Diakhaté
+MMe,Ly,Fatimata Med El Moustapha,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,7,,,,,,,El Mooustapha Ly,44041022,,,,,
+Mr,Diagana,Talib Aliou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,8,,,,,,,Diagana,46592157,,,,,
+MMe,Cissé,Zeinabou Zakaria,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,9,,,,,,,Cissé,48526307,,,,,
+Mr,Yatéra,Issa Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,10,,,,,,,Yatéra,41029409,,,,,
+Mr,Diawara,Samba Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,11,,,,,,,Diawara,,,,,,
+Mr,Niang,Souadou Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,12,,,,,,,Niang,46975466,,,,,
+Mr,Konaté,Mamadou Boulaye,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,13,,,,,,,Konaté,49739805,,,,,
+Mr,Diallo,Brahim Lagani,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,14,,,,,,,Diallo,48549011,,,,,
+MMe,Camara,Fatimata Sébo,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,15,,,,,,,Camara,22043948,,,,,
+MMe,Camara,Bano Boudé,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,16,,,,,,,Camara,46123588,,,,,
+MMe,Camara,Diandi Gaye,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,17,,,,,,,Camara,41487553,,,,,
+Mr,Diawara,Cheikhou Demba,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,18,,,,,,,Diawara,36277754,,,,,Diawara
+Mr,Diawara,Malamine Mamady,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,19,,,,,,,Diawara,36277754,,,,,Diawara
+Mr,Diwara,Malamine Yélli,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,20,,,,,,,Diwara,36277754,,,,,Diawara
+Mr,Sarr,Mohamed Lamine,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,21,,,,,,,Sarr,,,,,,
+MMe,Ly,farmata Baba Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,22,,,,,,,Ly,46562040,,,,,
+MMe,M’Bow,Aissata Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,23,,,,,,,M’Bow,49532160,,,,,
+MMe,N’Diaye,Salimata Salif,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,24,,,,,,,N’Diaye,46067814,,,,,
+Mr,Camara,Mohamed Killé,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,25,,,,,,,Camara,41018513,,,,,
+Mr,Soumare,Souleymane Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,26,,,,,,,Soumaré,46479016,,,,,
+Mr,Cissé,Ibrahima Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,27,,,,,,,Moussa Cissé,27373822,,,,,
+MMe,Dia,Kadiata Sékou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,28,,,,,,,Dia,46594384,,,,,
+Mr,Camara,Sidi Nima,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,29,,,,,,,Camara,41605202,,,,,
+MMe,Sy,Arame Baba,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,30,,,,,,,Sy,46320355,,,,,
+MMe,Diarra,Aminata Sadifou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,31,,,,,,,Soumaré,47757057,,,,,
+MMe,Lam ,Aissata Aliou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,32,,,,,,,Lam,36340674,,,,,
+MMe,Diakité,Marième Aliou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,33,,,,,,,Diakité,46937830,,,,,
+Mr,Camara,Samba Aboubacry,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,34,,,,,,,Camara,46469314,,,,,
+Mr,Diagana,Mohamed Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,35,,,,,,,Ousmane Diagana,46012700,,,,,Ousmane Diagana
+Mr,Samba,Abdel Aziz Chiekh,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,36,,,,,,,Samb ,46978404,,,,,
+Mr,Camara,Sadio Demba,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,37,,,,,,,Camara,41033739,,,,,
+MMe,Tandia,Zeynabou Hadiyatou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,38,,,,,,,MMe Tandia,46451966,,,,,MMe Tandia
+MMe,Sow,Zinabou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,39,,,,,,,Hawa Amadou Sall,46436586,,,,,Hawa Amadou Sall
+Mr,Camara,Cheikhou Aly,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,40,,,,,,,Diaidé Camara,46446470,,,,,Diadié Camara
+Mr,Camara,Aly Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,41,,,,,,,Diadié Camara,46446470,,,,,Diadié Camara
+Mr,Konté,Issa Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,42,,,,,,,Konté,46456486,,,,,
+Mr,Sow,Abdoulaye Samba,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,43,,,,,,,Sow,46911786,,,,,
+Mr,Kelly,Mamadou Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,44,,,,,,,Abdoulaye Barro,46428964,,,,,Abdoulaye Barro
+Mr,Silla,Aboubacy Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,45,,,,,,,Silla,46865449,,,,,
+MMe,S’id,Sékina Ethmane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,46,,,,,,,Ahmed Sira,46924084,,,,,Ahmed Sira
+Mr,Kénémé,Alioune Seidu,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,48,,,,,,,Seidi Kénémé,46431495,,,,,Seidi Kénémé
+MMe,Gueye,Maimouna Moustapha,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,49,,,,,,,Moustapha Gueye,44387060,,,,,Moustapha Gueye
+Mr,N’Diaye,Abdoul Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,50,,,,,,,N’Diaye,46966662,,,,,
+Mr,Ly,Hamath Amadou Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,51,,,,,,,Ly,46875468,,,,,
+Mr,Soumaré,Mody Cheikhou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,52,,,,,,,,,,,,,
+MMe,Kébé,Maimouna Saydou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,53,,,,,,,Kébé,46701656,,,,,
+Mr,Camara,Moussa Lassana,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,54,,,,,,,Camara,46861364,,,,,
+MMe,Camara,Penda Boubou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,55,,,,,,,Camara Boubou,49695525,,,,,Camara Boubou
+Mr,Diarra,harouna Sidi,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,56,,,,,,,Diarra,44733763,,,,,
+Mr,Djigo,Abdoulaye Souleymane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,57,,,,,,,Djigo,46308895,,,,,Djigo
+Mr,Moulaye,Mohamed ,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,58,,,,,,,Moulaye,46408054,,,,,
+MMe,Diagne,Oumoulkaktoum Youssouf,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,59,,,,,,,Khady Gueye,47598488,,,,,Khady Gueye
+Mr,Tireira,Lakhamy Samba,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,60,,,,,,,Samba Tireira,46411961,,,,,Samba Tireira
+Mr,Dia,Alpha Baidy,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D1,61,,,,,,,Fatimata Ly,46868950,,,,,Fatimata Ly
+MMe,Brahim,Salimata Doudou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,1,,,,,,,Brahim,44489559,,,,,
+Mr,Sall,Ousmane Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,2,,,,,,,Sall,44406915,,,,,
+Mr,Camara,Mohamed Djibril,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,3,,,,,,,Camara,38682433,,,,,
+Mr,Diawara,Yerim Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,4,,,,,,,Oumar Diawara,47303759,,,,,Oumar Diawara
+Mr,Lam ,Mamadou Abdoul,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,5,,,,,,,Lam,46454495,,,,,
+Mr,Diomassi,Moussa Seidi,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,6,,,,,,,Diomassi,42858070,,,,,
+Mr,Seck,Amadou Lamine Maguet,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,7,,,,,,,Seck,47291229,,,,,
+Mr,Camara,Abdellah Cheikh,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,8,,,,,,,Camara,46078662,,,,,
+MMe,Traoré,Salimata EL Hassen,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,9,,,,,,,Traoré,46458743,,,,,
+MMe,Tambabdou,Niaky Boubou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,10,,,,,,,Tamabadou,49756501,,,,,
+Mr,N’Diaye,Seidi bana,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,11,,,,,,,N’Diaye,48379219,,,,,
+Mr,Ba ,Ibrahima Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,12,,,,,,,Ba ,36917893,,,,,
+MMe,Cissé,Hadiya Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,13,,,,,,,Moussa Cissé,27373822,,,,,Moussa Cissé
+MMe,Cissé,Alia Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,14,,,,,,,Moussa Cissé,27373822,,,,,Moussa Cissé
+Mr,Doumbia,Lassana Souadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,15,,,,,,,Doumbia,26179269,,,,,
+Mr,Bocoum,Seydou Hamidou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,16,,,,,,,Bocoum,37764701,,,,,
+Mr,Lom,Djibril Alioune,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,17,,,,,,,Lom,49670391,,,,,
+MMe,Cissokho,Bambi Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,18,,,,,,,Cissokho,46436586,,,,,
+MMe,Soumaré,Fatmata Boulaye,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,19,,,,,,,Soumaré,47112604,,,,,
+MMe,Ly,Djeinaba Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,20,,,,,,,Ly,46843638,,,,,
+Mr,Sow,Cheikh Tidjane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,21,,,,,,,Hawa Amadou Sall,46436586,,,,,Hawa Amadou Sall
+Mr,Dia,Yacoub Issa,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,22,,,,,,,Hawa Amadou Sall,46436586,,,,,Hawa Amadou Sall
+Mr,N’Diaye,Moustapha Aly,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,23,,,,,,,N’Diaye,46437936,,,,,
+MMe,Sy,Aissata Abou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,24,,,,,,,Sy,48035981,,,,,
+MMe,Konté,Marième Moussa,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,25,,,,,,,Konté,46456489,,,,,Konté
+Mr,Gaye,Soulèye El Hadj,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,26,,,,,,,Gaye,44321912,,,,,
+Mr,Salem,Ahmed Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,27,,,,,,,Salem,46990032,,,,,
+MMe,Dieng,Mahjouba Khailifa,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,28,,,,,,,Dieng,46040926,,,,,
+MMe,Sow,Haby Oumar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,29,,,,,,,Sow,46436248,,,,,
+MMe,Sall,Maimouna Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,30,,,,,,,Sall,47730757,,,,,
+Mr,Hanne,Cheikh Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,31,,,,,,,Hanne,46880446,,,,,
+MMe,Ba ,Djeinaba Malick,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,32,,,,,,,Ba ,46883560,,,,,
+Mr,Sèye,Cheikhna Modou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,33,,,,,,,Sèye,46486957,,,,,
+MMe,Fédior,Aichetou Babacar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,34,,,,,,,Fédior,36621789,,,,,
+MMe,Niass,Rougui Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,35,,,,,,,Niass,46447173,,,,,
+MMe,Zweid,mame Maouloud,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,36,,,,,,,Zweid,46481645,,,,,
+MMe,Ba ,Madani Amadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,37,,,,,,,Ba ,46440574,,,,,
+Mr,Ba ,Alassane EL Housseinou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,38,,,,,,,Abdoulaye Barro,46428964,,,,,Abdoulaye Barro
+Mr,Khoma,Diadié Ousmane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,39,,,,,,,Khoma,46939845,,,,,
+Mr,Sall,Ahmed Abderahmane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,40,,,,,,,Sall,47634437,,,,,
+MMe,N’Dongo,Houleye Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,41,,,,,,,N’Dongo,46075761,,,,,
+Mr,Soumaré,Waly Galadio,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,42,,,,,,,Soumaré,48100919,,,,,
+Mr ,Camara,Boubou Mamdou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,43,,,,,,,Camara,46413213,,,,,
+MMe,M’Bareck,Fatimetou Aba,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,44,,,,,,,M’Bareck,46911789,,,,,
+MMe,Diba,Fatimata Alassane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,45,,,,,,,Diba,46572903,,,,,
+Mr,Diarra,Youssouf Tomba,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,46,,,,,,,Diarra,41022968,,,,,
+Mr,Sakho,Bouna Habib,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,47,,,,,,,Sakho,41112085,,,,,
+MMe,Camara,Maya Diadié,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,48,,,,,,,Camara,46419884,,,,,
+Mr,Tandia,Ibrahima Mohamed,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,49,,,,,,,Tandia,46491848,,,,,
+MMe,Diao,faty,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,50,,,,,,,Diao,47616386,,,,,Diao
+Mr,Dia,Daouda Moctar,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,51,,,,,,,Moctar Dia,38550173,,,,,Moctar Dia
+MMe,Camara,Meima Sidi,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,52,,,,,,,Camara,46430082,,,,,
+Mr,Thiam,Ousmane Hamidou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,53,,,,,,,Thiam,46456720,,,,,
+MMe,Wague,Hadjiratou Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,54,,,,,,,Wague,46427918,,,,,
+MMe,Diallo,Diarry Salif,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,55,,,,,,,Salif Diallo,44855912,,,,,Salif Diallo
+MMe,Sall,Coumba Abdoulaye,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,56,,,,,,,Salif Diallo,44855912,,,,,Salif Diallo
+MMe,Gaye,Khady Silmakha,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,57,,,,,,,Gaye,47998785,,,,,
+Mr,Diabira,Hademou Salou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,58,,,,,,,Diabira,44249127,,,,,
+MMe,Niang,Fatimétou Alioune,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,59,,,,,,,Niang,47998785,,,,,
+MMe,Sankharé,Maimouna,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,60,,,,,,,Sankharé,,,,,,
+MMe,Doucouré,Aicha Souleymane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,61,,,,,,,Doucouré,48229608,,,,,
+MMe,Thioub,Aissata Oumou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,62,,,,,,,Thioub,46565545,,,,,
+Mr,Niang,Abdou Mamadou,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,63,,,,,,,Niang,46712332,,,,,
+Mr,Soumaré,Boubacar Ansoumane,,,,2020_2021,GSP Al Vaida & El Awlama,7eme D2,6’,,,,,,,Soumaré,47730409,,,,,
+Mr,Ibrahima Diadie,Coulibaly,,,,2020_2021,GSP Al Vaida & El Awlama,4eme AS2,38,,,,,,,,36661285,,,,,{Youssouf Camara}
+Mr,Diop,Demba,24/10/2000,56465465,2000,2020_2021,ICM,2eme AS1,3,Arafat,DIDI,DIDI,DIDI,dd@gmail.com,dd@gmail.com,test,test,test@gmail.com,,,,Foyer
